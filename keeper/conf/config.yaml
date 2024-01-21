@@ -1,0 +1,5 @@
+chainID: 5
+rpc: https://eth-goerli.g.alchemy.com/v2/lbfMTXYmFaFCEI4s4NlcjaswxpAqwGnl
+privateKey: 8ea7c1df578d45084e62a5938d9327aa18646991314d5a54e36011d4e10764de
+subgraph: https://api.thegraph.com/subgraphs/name/keeganlee/compswap
+priceFeed: 0xD4a33860578De61DBAbDc8BFdb98FD742fA7028e
