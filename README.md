@@ -14,7 +14,7 @@
 - **core**：最核心的智能合约
 - **subgraph**：数据索引服务
 - **keeper**：Keeper 服务
-- **interface**：前端 UI
+- **interface**：前端 UI(开发中）
 
 # 2. 业务模型
 
@@ -205,7 +205,7 @@ The project consists of 4 parts:
 - **core**: the core smart contract
 - **subgraph**: data indexing service
 - **keeper**: Keeper service
-- **interface**: front-end UI
+- **interface**: front-end UI(still in development)
 
 # 2. Business model
 
