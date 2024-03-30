@@ -3,7 +3,7 @@
 - [中文版本](#中文版本)
 - [English Version](#english-version)
 
-⚠️Unfortunately,the Goerli testnet was dumped at March 2024. And this project is no longer available. I am trying other ways to update it to 2.0.
+# ⚠️Unfortunately,the Goerli testnet was dumped at March 2024. And this project is no longer available. I am trying other ways to update it to 2.0.
 
 ## 中文版本
 # 1. 项目概况
