@@ -19,7 +19,7 @@
 
 # 2. 业务模型
 
-## 永续合约
+## 杠杆借贷
 
 用保证金做抵押，可放大杠杆的类期货交易产品
 
@@ -210,7 +210,7 @@ The project consists of 4 parts:
 
 # 2. Business model
 
-## Perpetual Contract
+## Leveraged Loan
 
 Futures-like trading products that use margin as collateral to amplify leverage
 
