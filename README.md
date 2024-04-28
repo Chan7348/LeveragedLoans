@@ -1,4 +1,4 @@
-# perpetualContract1.0
+# LeveragedLoans1.0
 
 - [中文版本](#中文版本)
 - [English Version](#english-version)
@@ -199,7 +199,7 @@
 
 # 1. Project Overview
 
-Implement the perpetual contract function by combining `UniswapV2` and `Compound`
+Implement the leveraged loan function by combining `UniswapV2` and `Compound`
 
 The project consists of 4 parts:
 
