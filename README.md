@@ -84,8 +84,8 @@
 ### 开多
 
 0. 开多之前需要先完成了充值 ETH
-1. 调 Uniswap 进行 Swap 操作，用 USDC 兑换出 ETH
-2. 回调到 uniswapV2Call 函数，该函数会先拿到 WETH
+1. 调 Uniswap 进行 flashSwap 操作，用 USDC 兑换 ETH， 第一步拿到 ETH（flashSwap可以先拿到ETH再给USDC）
+2. 回调到 uniswapV2Call 函数，拿到 uniswap 给出的 WETH， 
 3. 将 WETH 换成 ETH，然后存款到 Compound，提高抵押资产价值
 4. 从 Compound 借出 USDC，并转回给到 Uniswap
 
